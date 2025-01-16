@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Moin! 👋  
+### Full Stack Developer | Engineering Student | MERN Stack Enthusiast 🚀
 
-<!--
-**Moinkhan15-03-2004/Moinkhan15-03-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a **dedicated 3rd-year Engineering student** and a passionate **Full Stack Developer**. My expertise lies in designing and developing scalable, efficient web applications using modern tools and technologies. I love solving complex problems, breaking them into simple solutions, and pushing boundaries in programming competitions and hackathons.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 **Technologies & Tools**
+
+### 🚀 Backend Skills
+- **Languages**: Node.js, Express.js  
+- **APIs**: RESTful APIs, WebSocket APIs  
+
+### 🎨 Frontend Skills
+- **Frameworks/Libraries**: React, Next.js  
+- **Languages**: HTML, CSS, JavaScript  
+
+### 📂 Databases
+- MongoDB , 
+
+
+
+---
+
+## 💡 **What I’m Passionate About**
+- **Problem-Solving with DSA**: Proficient in **Data Structures and Algorithms (DSA)** using **C++**, I enjoy tackling challenges and finding innovative solutions.  
+- **Hackathons & Competitions**: Actively participating in programming contests and hackathons to embrace challenges and learn collaboratively.  
+
+
+---
+
+
+
+---
+
+## 📫 **Let’s Connect!**
+I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out to me via the following platforms:  
+
+- **[LinkedIn](linkedin.com/in/moin-khan-1ba645262)**  
+- **[LeetCode](https://leetcode.com/u/MoinkhanSanu/)**  
+- **Email**: moin46761@gmail.com 
+
+---
+
+### 🔥 Check out my repositories for more exciting projects and ideas! 🚀

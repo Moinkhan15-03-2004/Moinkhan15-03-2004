@@ -1,7 +1,7 @@
 # Hi, I'm Moin! 👋  
 ### Full Stack Developer | Engineering Student | MERN Stack Enthusiast 🚀
 
-Welcome to my GitHub! I'm a **dedicated 3rd-year Engineering student** and a passionate **Full Stack Developer**. My expertise lies in designing and developing scalable, efficient web applications using modern tools and technologies. I love solving complex problems, breaking them into simple solutions, and pushing boundaries in programming competitions and hackathons.
+Welcome to my GitHub! I'm a **dedicated 4th-year Engineering student** and a passionate **Full Stack Developer**. My expertise lies in designing and developing scalable, efficient web applications using modern tools and technologies. I love solving complex problems, breaking them into simple solutions, and pushing boundaries in programming competitions and hackathons.
 
 ---
 

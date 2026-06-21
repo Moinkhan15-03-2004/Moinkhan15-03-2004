@@ -6,7 +6,7 @@ I’m a 4th-year Engineering student focused on building scalable web applicatio
 
 ---
 
-## 🚀 My Journey
+##  My Journey
 
 - Built a strong foundation in **C++ and Data Structures & Algorithms**
 - Transitioned into **Full Stack Development (MERN Stack)**
@@ -56,7 +56,7 @@ I’m a 4th-year Engineering student focused on building scalable web applicatio
 
 ---
 
-## 📊 AI / ML Work
+##  AI / ML Work
 
 - Built machine learning models for prediction and classification tasks  
 - Performed data analysis and preprocessing on real-world datasets  
